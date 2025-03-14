@@ -9,3 +9,5 @@ To browse the entries listed, please visit the [Resources page](./resources/). T
 <div class="alert alert-info" role="alert">
 If you want to edit or contribute to this site, the content management system is available <a href="/learning/admin/" class="alert-link">here</a> and requires a GitHub account to use. 
 </div>
+
+This is a test edit!
