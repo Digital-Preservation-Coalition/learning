@@ -1,12 +1,14 @@
 ---
 title: Welcome to the DigiPres Learning Resources Portal!
 ---
-This aim of this new community resource is to help digital preservation practitioners, educators, and students find training and development opportunities and content. It was first developed as part of the [iPRES 2024](https://ipres2024.pubpub.org/) Start to Preserve stream.
-
-<img src="/assets/uploads/learnerbits.png" style="float: left; 
+<img src="/assets/uploads/learnerbits.png" style="float: right; 
   margin: 5px;">
 
-To browse the entries listed, please visit the [Resources page](<>). To search for resources by keyword, visit the [Search page](<>).
+The aim of this new community resource is to help digital preservation practitioners, educators, and students find training and development opportunities and content. It was first developed as part of the [iPRES 2024](https://ipres2024.pubpub.org/) Start to Preserve stream and is maintained by the [Digital Preservation Coalition](www.dpconline.org).
+
+Contributions and updates are welcome from anyone in the digital preservation community. If you've taken an interesting course or found a great new resource you'd like to share, please do add it!
+
+To browse the current entries listed, please visit the [Resources page](<>). To search for resources by keyword, visit the [Search page](<>). It is also possible to browse by the [Skills](https://digipres-learning-resources.netlify.app/skills/) and [Roles](https://digipres-learning-resources.netlify.app/roles/) defined by the DPC's [Digital Preservation Competency Framework](https://www.dpconline.org/digipres/prof-development/dp-competency).
 
 The resource portal will continue to be updated and improved in line with feedback from the digital preservation community. If you have any questions about the resource and how to use it, please email sharon.mcmeekin\[at]dpconline.org.
 
