@@ -12,6 +12,8 @@ learning-objectives:
 skill-levels:
   - skill: Approaches to Preservation
     level: "1"
+  - skill: Managing Access
+    level: "1"
 roles:
   - role: Digital Preservation Officer
   - role: Information Studies Student
