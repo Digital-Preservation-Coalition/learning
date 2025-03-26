@@ -1,6 +1,6 @@
 ---
 title: Digital Preservation Essentials
-resource_url: Digital Preservation Essentials
+resource_url: https://australasiapreserves.blogspot.com/p/digital-preservation-essentials.html
 resource-type: Training Content
 provider: Australasia Preserves
 creators:
