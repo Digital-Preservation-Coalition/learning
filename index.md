@@ -14,5 +14,12 @@ The resource portal will continue to be updated and improved in line with feedba
 
 <div class="alert alert-info" role="alert">
 If you would like to edit or contribute to the resource, this can be done via the <a href="{{ site.editor_url }}/admin/" class="alert-link">content management system</a>. 
-You will need to be logged in to a GitHub account to make any edits or additions. All entries will then be approved by an admin before appearing online.
+You will need to be logged in to a GitHub account to make any edits or additions. All entries will then be approved by an admin before appearing online. 
+
+<br>
+
+_If you'd like some support, please feel free to join the [Preservation Registries Special Interest Group](https://www.dpconline.org/digipres/pr-sig) and come along to a Collaboration Café!_
+
+
 </div>
+
