@@ -6,6 +6,7 @@ title: Learning Resources
   <thead>
     <tr>
       <th>Resource</th>
+      <th>Type</th>
       <th>Skills</th>
       <th>Roles</th>
     </tr>
@@ -17,6 +18,9 @@ title: Learning Resources
     <a href="{{ item.url | relative_url }}">
       {{ item.title }}
     </a>
+      </td>
+      <td>
+        {{ item['resource-type'] }}
       </td>
       <td>
       {% include skill_levels.html skills=item.skill-levels %}
