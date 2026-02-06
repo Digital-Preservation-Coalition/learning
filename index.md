@@ -18,7 +18,7 @@ You will need to be logged in to a GitHub account to make any edits or additions
 
 <br>
 
-_If you'd like some support, please feel free to join the [Preservation Registries Special Interest Group](https://www.dpconline.org/digipres/pr-sig) and come along to a Collaboration Café!_
+<i>If you'd like some support, please feel free to join the <a href="https://www.dpconline.org/digipres/pr-sig">Preservation Registries Special Interest Group</a> and come along to a Collaboration Café!</i>
 
 
 </div>
