@@ -81,26 +81,26 @@ tr.area-digital-preservation-domain-specific td {
 <tbody class="table-group-divider">
 <tr class="odd">
 <td><strong>0</strong></td>
-<td><strong>Novice</strong></td>
-<td>Limited awareness of the skill element.</td>
+<td><strong>Awareness</strong></td>
+<td>A basic awareness of the skill element.</td>
 <td>Has heard of, recognizes, is aware of</td>
 </tr>
 <tr class="even">
 <td><strong>1</strong></td>
-<td><strong>Beginner</strong></td>
-<td>A basic understanding of the skill element. May have received some training, but little or no practical experience.</td>
-<td>Understands, has studied, familiar with, uses, collaborates, communicates, supports</td>
+<td><strong>Understanding</strong></td>
+<td>An understanding of the skill element (e.g. has received some training) but little or no practical experience.</td>
+<td>Understands, has studied, is familiar with, uses, collaborates, communicates, supports</td>
 </tr>
 <tr class="odd">
 <td><strong>2</strong></td>
-<td><strong>Intermediate</strong></td>
+<td><strong>Basic Application</strong></td>
 <td>A sound understanding of the skill element and some experience of its practical application.</td>
 <td>Has delivered, has used, applies, implements, inputs to, plans, selects, documents</td>
 </tr>
 <tr class="even">
 <td><strong>3</strong></td>
-<td><strong>Advanced</strong></td>
-<td>A thorough understanding of the skill element and significant experience of its practical application.</td>
+<td><strong>Advanced Application</strong></td>
+<td>A thorough understanding of the skill element and significant experience of its practical application on a regular or sustained basis.</td>
 <td>Develops, leads on, manages, analyzes, monitors</td>
 </tr>
 <tr class="odd">
